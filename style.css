@@ -1,0 +1,21 @@
+body {
+  font-family: system-ui, arial;
+}
+
+div {
+display: flex;
+width: 2000px;
+}
+
+section {
+  flex: 1 1 0;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+ul {
+  padding-left: 1rem;
+  font-size: 1.2rem
+}
